@@ -1,0 +1,1 @@
+# MRI_demency_CNN
